@@ -1,1 +1,1 @@
-Git pull
+How to be up to date
